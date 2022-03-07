@@ -1,0 +1,21 @@
+{
+  "name": "sample-smartcontract-erc1155",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@alch/alchemy-web3": "^1.2.5",
+    "@nomiclabs/hardhat-ethers": "^2.0.5",
+    "@openzeppelin/contracts": "^4.5.0",
+    "@truffle/hdwallet-provider": "^2.0.3",
+    "dotenv": "^16.0.0",
+    "ethers": "^5.5.4",
+    "hardhat": "^2.9.1",
+    "web3": "^1.7.1"
+  }
+}
